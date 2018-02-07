@@ -1,0 +1,11 @@
+{
+  "name": "agence_test",
+  "version": "1.0.0",
+  "dependencies": {
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-confirm": "angular1-confirm#^1.1.0"
+  }
+}
